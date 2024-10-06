@@ -2,6 +2,8 @@
 
 # Cardiovascular Study Dataset - Predicting Heart Disease of Patients
 
+![alt text](https://github.com/francescogra/DataAnalysisExam/blob/main/slide1.png "ROC Curves")
+
 # 🧑‍💻 Accessing the File
 This project's notebook is saved as an .ipynb file. Here are a few options for accessing it:
 
