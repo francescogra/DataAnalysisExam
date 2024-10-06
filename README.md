@@ -1,9 +1,10 @@
-# DataAnalysisExam
+# Data Analysis Exam Project - University of Catania
 
-# Cardiovascular Study Dataset - Predicting Heart Disease of Patients
+## Project Title
+**Cardiovascular Study Dataset - Predicting Heart Disease of Patients**
 
-<p>This repository contains the Project Notebook for Data Analysis, a Data Science subject taught at University of Catania.</p>
-
+## Project Overview
+This repository contains the exam project for the Data Science course on Data Analysis at the University of Catania. 
 <p>This repository has only eductional purposes, so it is freely usable (just put the link of this repository as a reference in your README file if you do).</p>
 
 ## What is it about?
