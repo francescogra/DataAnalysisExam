@@ -17,3 +17,15 @@ This project's notebook is saved as an .ipynb file. Here are a few options for a
 
 3.  Visual Studio Code, with the Jupyter extension installed, can execute .ipynb files.
     Open VS Code, select "File" > "Open File," navigate to the .ipynb file, and open it. VS Code will allow you to run the code in a notebook format.
+
+
+Project Dependencies
+To run the notebook and reproduce the analysis, you'll need to install the following modules:
+
+1.    numpy
+2.    pandas
+3.    matplotlib
+4.    scipy
+5.    seaborn
+6.    statsmodels
+7.    imbalanced-learn
